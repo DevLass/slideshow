@@ -6,7 +6,7 @@
 ### *The rest is just to beautify the site*
 ### *In the future I would like to implement a timer to change images, like Instagram Stories*
 
-#### *******************************************************************************************************************************************
+#### ***********************************************************************************************************************
 ###   *Here, i'll explain how to make a neon animation in any word*
 ###   *The simple commands:*
 ###
@@ -15,7 +15,7 @@
 ###
 ###    *This with the desired color instead of white*
 ###    *Inside of a hover, makes the word "neon" when tapped*
-#### *******************************************************************************************************************************************
+#### ***********************************************************************************************************************
 
 ###   *Thanks for reading, see you soon*
 
